@@ -1,0 +1,125 @@
+.intro{
+    background-color: white;
+    text-align: center;
+    position: relative;
+}
+.form1{
+    text-align: center;
+    font-size: 1rem;
+    background-color:rgb(30, 144, 255,0.8);
+    padding: 2rem;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+
+}
+.close{
+    position: absolute;
+    top:5rem;
+    right: 10rem;
+    font-size: 2rem;
+    background-color: red;
+    width: 2rem;
+    height: 2rem;
+}
+.question-add{
+    border-radius: 2rem;
+}
+.form-content{
+    margin: 10rem auto;
+}
+
+.form1 .form-question{
+    color: whitesmoke;
+    display: inline-flex;
+    font-size: 1.2rem;
+    font-size: 5rem;
+
+}
+.form1 input{
+    display: block;
+    padding: 0.5rem;
+    margin: 1rem auto;
+    font-size: 3rem;
+}
+.container{
+    margin: 3rem auto;
+}
+.text{
+    color:dodgerblue;
+    font-size: 5rem;
+    font-family: arial;
+}
+.add{
+    font-size: 3rem;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    margin: 0;
+
+}
+.remove{
+    font-size: 3rem;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    margin: 0;
+
+}
+.score{
+    display: none; 
+    background-color: aliceblue;
+    font-size: 1.5rem;
+    text-align: center;
+    width: 100%;
+    padding: 1rem;
+}
+.size{
+    font-size: 5rem;
+    color:dodgerblue
+}
+.questions{
+    background-color: dodgerblue;
+    padding: 2rem;
+    width: 100%;
+    
+}
+.question{
+    padding: 3rem;
+    width: 100%;
+}
+.text2{
+    color: white;
+    font-size: 3rem;
+    text-align: left;
+    margin: auto 15rem;
+}
+.form-check{
+    color:lavender;
+    font-size: 1.5rem;
+    margin: 2rem 20rem;
+} 
+.my-5{
+    margin: 5rem auto;
+}
+.mx-5{
+    margin: auto 5rem;
+}
+.my-2{
+    margin: 2rem auto;
+}
+.quiz-form{
+    color:white;
+}
+.mx-20{
+    margin: auto 20rem;   
+}
+.submit{
+    padding: 1rem;
+    border: none;
+    border-radius: 3rem;
+    font-size: 3rem;
+    text-align: center;
+}
