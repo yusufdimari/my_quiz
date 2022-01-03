@@ -36,7 +36,7 @@ const questionsSet = [
   {
     title: "What Course am i studying",
     option1: "Computer Science",
-    option3: "Information Technology",
+    option2: "Information Technology",
     option3: "Software Engineering",
     answer: "C",
   },
